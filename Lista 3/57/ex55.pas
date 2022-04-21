@@ -1,5 +1,5 @@
 
-Program ex57;
+Program ex55;
 
 Var 
   n, m, x, a, b, res: longint;
