@@ -1,5 +1,5 @@
 
-Program ex08;
+Program ex11;
 
 Var 
   a, i, x: longint;
